@@ -13,6 +13,10 @@
     "2026-11-13": {
       "type": "partiel",
       "label": "PARASTIO ED"
+    },
+    "2026-12-03": {
+      "type": "partiel",
+      "label": "Tronc commun"
     }
   },
   "darkMode": true,
@@ -1561,7 +1565,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:22:50.004Z"
+    "updatedAt": "2026-10-17T13:24:02.096Z"
   },
   "config": {
     "start": "2026-10-16",
