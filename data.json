@@ -51,7 +51,9 @@
   "subjectDeadlines": {},
   "itemDifficulty": {},
   "lcaEntries": {},
-  "skippedItemTasks": {},
+  "skippedItemTasks": {
+    "2026-10-17::S1_i91_o1": true
+  },
   "sddItems": [
     [
       1,
@@ -1566,7 +1568,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T16:28:36.477Z"
+    "updatedAt": "2026-10-17T19:10:42.097Z"
   },
   "config": {
     "start": "2026-10-16",
