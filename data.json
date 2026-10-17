@@ -10,7 +10,20 @@
   },
   "reportedDays": {},
   "darkMode": true,
-  "itemOverrides": {},
+  "itemOverrides": {
+    "S1_i269_o1": {
+      "itemNum": 304,
+      "swapId": "swap_1792239478328_956",
+      "partnerKey": "S1_i304_o1",
+      "previousItemNum": 269
+    },
+    "S1_i304_o1": {
+      "itemNum": 269,
+      "swapId": "swap_1792239478328_956",
+      "partnerKey": "S1_i269_o1",
+      "previousItemNum": 304
+    }
+  },
   "customTasks": {},
   "subjectDeadlines": {},
   "itemDifficulty": {},
@@ -1475,13 +1488,13 @@
       {
         "id": "S1_i269_o1",
         "kind": "item",
-        "itemNum": 269,
+        "itemNum": 304,
         "mode": "revision",
         "idx": 2,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-17",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 269,
         "dayCap": 2
       },
@@ -1522,7 +1535,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T12:14:52.397Z"
+    "updatedAt": "2026-10-17T12:17:58.330Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -3675,6 +3688,7 @@
       301,
       "Tumeurs du côlon et du rectum",
       [
+        "gastro",
         "onco"
       ]
     ],
@@ -3696,6 +3710,7 @@
       304,
       "Tumeurs du foie, primitives et secondaires",
       [
+        "gastro",
         "onco"
       ]
     ],
