@@ -1556,7 +1556,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:01:52.845Z"
+    "updatedAt": "2026-10-17T13:14:09.352Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -3695,6 +3695,7 @@
       299,
       "Tumeurs intracrâniennes",
       [
+        "neuro",
         "onco"
       ]
     ],
