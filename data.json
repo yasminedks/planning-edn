@@ -9,7 +9,12 @@
       "free": false
     }
   },
-  "reportedDays": {},
+  "reportedDays": {
+    "2026-11-13": {
+      "type": "partiel",
+      "label": "PARASTIO ED"
+    }
+  },
   "darkMode": true,
   "itemOverrides": {
     "S1_i269_o1": {
@@ -1556,7 +1561,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:21:13.352Z"
+    "updatedAt": "2026-10-17T13:22:50.004Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4220,6 +4225,13 @@
       {
         "id": "M_277_mvcd6ofgx31n",
         "itemNum": 277,
+        "mode": "revision"
+      }
+    ],
+    "2026-11-15": [
+      {
+        "id": "M_151_mvcfe543xhw0",
+        "itemNum": 151,
         "mode": "revision"
       }
     ]
