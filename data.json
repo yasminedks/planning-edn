@@ -1556,7 +1556,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:18:35.127Z"
+    "updatedAt": "2026-10-17T13:21:13.352Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -3959,6 +3959,7 @@
       336,
       "Coma non traumatique chez l'adulte et chez l'enfant",
       [
+        "neuro",
         "urgences"
       ]
     ],
@@ -4009,6 +4010,7 @@
       343,
       "État confusionnel et trouble de conscience chez l'adulte et chez l'enfant",
       [
+        "neuro",
         "urgences"
       ]
     ],
