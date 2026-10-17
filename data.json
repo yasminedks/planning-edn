@@ -1522,7 +1522,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-16T22:07:12.394Z"
+    "updatedAt": "2026-10-17T12:14:52.397Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -1530,6 +1530,7 @@
     "exam": "2026-12-15",
     "ecosDate": "",
     "newCats": [
+      "chirvisc",
       "gastro",
       "neuro"
     ],
@@ -4167,5 +4168,6 @@
       "on": "2026-10-17",
       "planned": "2026-10-16"
     }
-  }
+  },
+  "manualItems": {}
 }
