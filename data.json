@@ -1556,7 +1556,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:14:09.352Z"
+    "updatedAt": "2026-10-17T13:15:45.499Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -2358,7 +2358,8 @@
       108,
       "Confusion, démences",
       [
-        "ger"
+        "ger",
+        "neuro"
       ]
     ],
     [
@@ -2659,7 +2660,8 @@
       151,
       "Méningites, méningoencéphalites, abcès cérébral chez l'adulte et l'enfant",
       [
-        "infectio"
+        "infectio",
+        "neuro"
       ]
     ],
     [
