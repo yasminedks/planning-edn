@@ -1556,7 +1556,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-17T13:15:45.499Z"
+    "updatedAt": "2026-10-17T13:17:23.647Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4001,6 +4001,7 @@
       342,
       "Malaise, perte de connaissance, crise convulsive chez l'adulte",
       [
+        "neuro",
         "urgences"
       ]
     ],
