@@ -1549,6 +1549,32 @@
         "iso": "2026-10-17",
         "manual": true
       }
+    ],
+    "2026-10-19": [
+      {
+        "id": "S1_i354_o1",
+        "kind": "item",
+        "itemNum": 354,
+        "mode": "revision",
+        "idx": 4,
+        "phase": "S1",
+        "iso": "2026-10-19",
+        "overridden": false,
+        "originalItemNum": 354,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i356_o1",
+        "kind": "item",
+        "itemNum": 356,
+        "mode": "revision",
+        "idx": 5,
+        "phase": "S1",
+        "iso": "2026-10-19",
+        "overridden": false,
+        "originalItemNum": 356,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -1568,7 +1594,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-18T20:05:39.694Z"
+    "updatedAt": "2026-10-19T15:17:02.609Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4214,6 +4240,12 @@
       "l": 0,
       "f": 1,
       "s": 1
+    },
+    "2026-10-18": {
+      "r": 1,
+      "l": 0,
+      "f": 0,
+      "s": 0
     }
   },
   "pinResetV1": true,
@@ -4249,6 +4281,13 @@
       {
         "id": "M_151_mvcfe543xhw0",
         "itemNum": 151,
+        "mode": "revision"
+      }
+    ],
+    "2026-10-22": [
+      {
+        "id": "M_301_mve9aaaemz0i",
+        "itemNum": 301,
         "mode": "revision"
       }
     ]
