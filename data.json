@@ -59,6 +59,18 @@
       "swapId": "swap_1792577360495_594",
       "partnerKey": "S1_i357_o1",
       "previousItemNum": 276
+    },
+    "S1_i272_o1": {
+      "itemNum": 278,
+      "swapId": "swap_1792577386559_220",
+      "partnerKey": "S1_i278_o1",
+      "previousItemNum": 272
+    },
+    "S1_i278_o1": {
+      "itemNum": 272,
+      "swapId": "swap_1792577386559_220",
+      "partnerKey": "S1_i272_o1",
+      "previousItemNum": 278
     }
   },
   "customTasks": {},
@@ -1571,6 +1583,7 @@
         "itemNum": 354,
         "mode": "revision",
         "idx": 4,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-19",
         "overridden": false,
@@ -1583,6 +1596,7 @@
         "itemNum": 356,
         "mode": "revision",
         "idx": 5,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-19",
         "overridden": false,
@@ -1635,15 +1649,23 @@
       {
         "id": "S1_i272_o1",
         "kind": "item",
-        "itemNum": 272,
+        "itemNum": 278,
         "mode": "revision",
         "idx": 9,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-21",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 272,
         "dayCap": 2
+      },
+      {
+        "id": "M_172_mvhyaubb65w9",
+        "kind": "manualItem",
+        "itemNum": 172,
+        "mode": "revision",
+        "iso": "2026-10-21",
+        "manual": true
       }
     ]
   },
@@ -1670,7 +1692,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-21T10:09:20.497Z"
+    "updatedAt": "2026-10-21T10:10:00.312Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4322,6 +4344,18 @@
       "l": 0,
       "f": 0,
       "s": 0
+    },
+    "2026-10-19": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-10-20": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4372,6 +4406,13 @@
       {
         "id": "M_301_mve9aaaemz0i",
         "itemNum": 301,
+        "mode": "revision"
+      }
+    ],
+    "2026-10-21": [
+      {
+        "id": "M_172_mvhyaubb65w9",
+        "itemNum": 172,
         "mode": "revision"
       }
     ]
