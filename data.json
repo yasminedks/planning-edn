@@ -5,7 +5,9 @@
     "S1_i269_o1": true,
     "M_277_mvcd6ofgx31n": true,
     "S1_i354_o1": true,
-    "S1_i356_o1": true
+    "S1_i356_o1": true,
+    "S1_i357_o1": true,
+    "S1_i272_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -1666,6 +1668,14 @@
         "mode": "revision",
         "iso": "2026-10-21",
         "manual": true
+      },
+      {
+        "id": "M_179_mvhyboq707to",
+        "kind": "manualItem",
+        "itemNum": 179,
+        "mode": "revision",
+        "iso": "2026-10-21",
+        "manual": true
       }
     ]
   },
@@ -1692,7 +1702,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-21T10:10:00.312Z"
+    "updatedAt": "2026-10-21T11:20:16.264Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -2944,6 +2954,7 @@
       172,
       "Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose, anguillulose, cryptosporidiose",
       [
+        "gastro",
         "infectio"
       ]
     ],
@@ -2993,6 +3004,7 @@
       179,
       "Risques sanitaires liés à l'eau et à l'alimentation. Toxi-infections alimentaires",
       [
+        "gastro",
         "infectio"
       ]
     ],
@@ -4385,6 +4397,14 @@
     "S1_i356_o1": {
       "on": "2026-10-20",
       "planned": "2026-10-19"
+    },
+    "S1_i357_o1": {
+      "on": "2026-10-21",
+      "planned": "2026-10-21"
+    },
+    "S1_i272_o1": {
+      "on": "2026-10-21",
+      "planned": "2026-10-21"
     }
   },
   "manualItems": {
@@ -4413,6 +4433,11 @@
       {
         "id": "M_172_mvhyaubb65w9",
         "itemNum": 172,
+        "mode": "revision"
+      },
+      {
+        "id": "M_179_mvhyboq707to",
+        "itemNum": 179,
         "mode": "revision"
       }
     ]
