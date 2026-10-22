@@ -9,7 +9,9 @@
     "S1_i357_o1": true,
     "S1_i272_o1": true,
     "M_172_mvhyaubb65w9": true,
-    "M_179_mvhyboq707to": true
+    "M_179_mvhyboq707to": true,
+    "S1_i172_o1": true,
+    "S1_i179_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -1679,6 +1681,42 @@
         "iso": "2026-10-21",
         "manual": true
       }
+    ],
+    "2026-10-22": [
+      {
+        "id": "S1_i172_o1",
+        "kind": "item",
+        "itemNum": 172,
+        "mode": "revision",
+        "idx": 10,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-22",
+        "overridden": false,
+        "originalItemNum": 172,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i179_o1",
+        "kind": "item",
+        "itemNum": 179,
+        "mode": "revision",
+        "idx": 11,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-22",
+        "overridden": false,
+        "originalItemNum": 179,
+        "dayCap": 2
+      },
+      {
+        "id": "M_301_mve9aaaemz0i",
+        "kind": "manualItem",
+        "itemNum": 301,
+        "mode": "revision",
+        "iso": "2026-10-22",
+        "manual": true
+      }
     ]
   },
   "queueFreeze": {
@@ -1692,7 +1730,9 @@
       271,
       92,
       357,
-      272
+      272,
+      172,
+      179
     ],
     "S2": []
   },
@@ -1704,7 +1744,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-21T15:28:39.733Z"
+    "updatedAt": "2026-10-22T16:43:39.351Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4415,6 +4455,14 @@
     "M_179_mvhyboq707to": {
       "on": "2026-10-21",
       "planned": "2026-10-21"
+    },
+    "S1_i172_o1": {
+      "on": "2026-10-22",
+      "planned": "2026-10-22"
+    },
+    "S1_i179_o1": {
+      "on": "2026-10-22",
+      "planned": "2026-10-22"
     }
   },
   "manualItems": {
