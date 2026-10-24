@@ -11,12 +11,14 @@
     "M_172_mvhyaubb65w9": true,
     "M_179_mvhyboq707to": true,
     "S1_i172_o1": true,
-    "S1_i179_o1": true
+    "S1_i179_o1": true,
+    "S1_i273_o1": true
   },
   "checks": {
     "2026-10-17": {
       "free": false
-    }
+    },
+    "2026-10-24": {}
   },
   "reportedDays": {
     "2026-11-13": {
@@ -89,6 +91,18 @@
       "swapId": "swap_1792853081433_975",
       "partnerKey": "S1_i273_o1",
       "previousItemNum": 279
+    },
+    "S1_i95_o1": {
+      "itemNum": 280,
+      "swapId": "swap_1792853093417_139",
+      "partnerKey": "S1_i280_o1",
+      "previousItemNum": 95
+    },
+    "S1_i280_o1": {
+      "itemNum": 95,
+      "swapId": "swap_1792853093417_139",
+      "partnerKey": "S1_i95_o1",
+      "previousItemNum": 280
     }
   },
   "customTasks": {},
@@ -1734,13 +1748,13 @@
       {
         "id": "S1_i95_o1",
         "kind": "item",
-        "itemNum": 95,
+        "itemNum": 280,
         "mode": "revision",
         "idx": 14,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-24",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 95,
         "dayCap": 2
       },
@@ -1761,6 +1775,14 @@
         "id": "free",
         "kind": "generic",
         "label": "Révision libre — item ou matière de ton choix"
+      },
+      {
+        "id": "M_355_mvmig5xgwqhn",
+        "kind": "manualItem",
+        "itemNum": 355,
+        "mode": "revision",
+        "iso": "2026-10-24",
+        "manual": true
       }
     ],
     "2026-10-23": [
@@ -1807,7 +1829,9 @@
       172,
       179,
       93,
-      94
+      94,
+      95,
+      273
     ],
     "S2": []
   },
@@ -1819,7 +1843,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-24T14:44:41.440Z"
+    "updatedAt": "2026-10-24T16:38:25.036Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4497,6 +4521,12 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-10-23": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4550,6 +4580,10 @@
     "S1_i179_o1": {
       "on": "2026-10-22",
       "planned": "2026-10-22"
+    },
+    "S1_i273_o1": {
+      "on": "2026-10-24",
+      "planned": "2026-10-24"
     }
   },
   "manualItems": {
@@ -4583,6 +4617,13 @@
       {
         "id": "M_179_mvhyboq707to",
         "itemNum": 179,
+        "mode": "revision"
+      }
+    ],
+    "2026-10-24": [
+      {
+        "id": "M_355_mvmig5xgwqhn",
+        "itemNum": 355,
         "mode": "revision"
       }
     ]
