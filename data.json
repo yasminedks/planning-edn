@@ -77,6 +77,18 @@
       "swapId": "swap_1792577386559_220",
       "partnerKey": "S1_i272_o1",
       "previousItemNum": 278
+    },
+    "S1_i273_o1": {
+      "itemNum": 279,
+      "swapId": "swap_1792853081433_975",
+      "partnerKey": "S1_i279_o1",
+      "previousItemNum": 273
+    },
+    "S1_i279_o1": {
+      "itemNum": 273,
+      "swapId": "swap_1792853081433_975",
+      "partnerKey": "S1_i273_o1",
+      "previousItemNum": 279
     }
   },
   "customTasks": {},
@@ -1717,6 +1729,67 @@
         "iso": "2026-10-22",
         "manual": true
       }
+    ],
+    "2026-10-24": [
+      {
+        "id": "S1_i95_o1",
+        "kind": "item",
+        "itemNum": 95,
+        "mode": "revision",
+        "idx": 14,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-24",
+        "overridden": false,
+        "originalItemNum": 95,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i273_o1",
+        "kind": "item",
+        "itemNum": 279,
+        "mode": "revision",
+        "idx": 15,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-24",
+        "overridden": true,
+        "originalItemNum": 273,
+        "dayCap": 2
+      },
+      {
+        "id": "free",
+        "kind": "generic",
+        "label": "Révision libre — item ou matière de ton choix"
+      }
+    ],
+    "2026-10-23": [
+      {
+        "id": "S1_i93_o1",
+        "kind": "item",
+        "itemNum": 93,
+        "mode": "revision",
+        "idx": 12,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-23",
+        "overridden": false,
+        "originalItemNum": 93,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i94_o1",
+        "kind": "item",
+        "itemNum": 94,
+        "mode": "revision",
+        "idx": 13,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-23",
+        "overridden": false,
+        "originalItemNum": 94,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -1732,7 +1805,9 @@
       357,
       272,
       172,
-      179
+      179,
+      93,
+      94
     ],
     "S2": []
   },
@@ -1744,7 +1819,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-22T16:43:39.351Z"
+    "updatedAt": "2026-10-24T14:44:41.440Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4406,6 +4481,18 @@
       "s": 1
     },
     "2026-10-20": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-10-21": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-10-22": {
       "r": 0,
       "l": 0,
       "f": 0,
