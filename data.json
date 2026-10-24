@@ -12,7 +12,8 @@
     "M_179_mvhyboq707to": true,
     "S1_i172_o1": true,
     "S1_i179_o1": true,
-    "S1_i273_o1": true
+    "S1_i273_o1": true,
+    "S1_i95_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -1843,7 +1844,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-24T16:38:25.036Z"
+    "updatedAt": "2026-10-24T18:42:01.466Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4582,6 +4583,10 @@
       "planned": "2026-10-22"
     },
     "S1_i273_o1": {
+      "on": "2026-10-24",
+      "planned": "2026-10-24"
+    },
+    "S1_i95_o1": {
       "on": "2026-10-24",
       "planned": "2026-10-24"
     }
