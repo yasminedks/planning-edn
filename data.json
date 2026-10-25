@@ -13,7 +13,8 @@
     "S1_i172_o1": true,
     "S1_i179_o1": true,
     "S1_i273_o1": true,
-    "S1_i95_o1": true
+    "S1_i95_o1": true,
+    "M_355_mvnt4vvazkz3": true
   },
   "checks": {
     "2026-10-17": {
@@ -1836,7 +1837,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-25T12:32:59.384Z"
+    "updatedAt": "2026-10-25T14:05:01.198Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4587,6 +4588,10 @@
     "S1_i95_o1": {
       "on": "2026-10-24",
       "planned": "2026-10-24"
+    },
+    "M_355_mvnt4vvazkz3": {
+      "on": "2026-10-25",
+      "planned": "2026-10-25"
     }
   },
   "manualItems": {
