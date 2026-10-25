@@ -1836,7 +1836,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-25T12:32:01.367Z"
+    "updatedAt": "2026-10-25T12:32:59.384Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4520,6 +4520,12 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-10-24": {
+      "r": 0,
+      "l": 0,
+      "f": 1,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4621,6 +4627,11 @@
       {
         "id": "M_355_mvnt4vvazkz3",
         "itemNum": 355,
+        "mode": "revision"
+      },
+      {
+        "id": "M_301_mvnt64mv9r1a",
+        "itemNum": 301,
         "mode": "revision"
       }
     ]
