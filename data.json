@@ -1776,14 +1776,6 @@
         "id": "free",
         "kind": "generic",
         "label": "Révision libre — item ou matière de ton choix"
-      },
-      {
-        "id": "M_355_mvmig5xgwqhn",
-        "kind": "manualItem",
-        "itemNum": 355,
-        "mode": "revision",
-        "iso": "2026-10-24",
-        "manual": true
       }
     ],
     "2026-10-23": [
@@ -1844,7 +1836,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-24T18:42:01.466Z"
+    "updatedAt": "2026-10-25T12:32:01.367Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4625,9 +4617,9 @@
         "mode": "revision"
       }
     ],
-    "2026-10-24": [
+    "2026-10-25": [
       {
-        "id": "M_355_mvmig5xgwqhn",
+        "id": "M_355_mvnt4vvazkz3",
         "itemNum": 355,
         "mode": "revision"
       }
