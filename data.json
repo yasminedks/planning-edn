@@ -109,6 +109,18 @@
       "swapId": "swap_1792853093417_139",
       "partnerKey": "S1_i95_o1",
       "previousItemNum": 280
+    },
+    "S1_i97_o1": {
+      "itemNum": 82,
+      "swapId": "swap_1793113811682_14",
+      "partnerKey": "S1_i82_o1",
+      "previousItemNum": 97
+    },
+    "S1_i82_o1": {
+      "itemNum": 97,
+      "swapId": "swap_1793113811682_14",
+      "partnerKey": "S1_i97_o1",
+      "previousItemNum": 82
     }
   },
   "customTasks": {},
@@ -1843,13 +1855,13 @@
       {
         "id": "S1_i97_o1",
         "kind": "item",
-        "itemNum": 97,
+        "itemNum": 82,
         "mode": "revision",
         "idx": 18,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-27",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 97,
         "dayCap": 2
       },
@@ -1917,7 +1929,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-27T15:00:56.916Z"
+    "updatedAt": "2026-10-27T15:10:11.686Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -3149,7 +3161,8 @@
       168,
       "Infections à herpès virus du sujet immunocompétent",
       [
-        "infectio"
+        "infectio",
+        "neuro"
       ]
     ],
     [
