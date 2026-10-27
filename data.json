@@ -1917,7 +1917,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-27T14:59:44.471Z"
+    "updatedAt": "2026-10-27T15:00:56.916Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -2794,7 +2794,8 @@
       118,
       "La personne handicapée : bases de l'évaluation fonctionnelle et thérapeutique",
       [
-        "ger"
+        "ger",
+        "neuro"
       ]
     ],
     [
@@ -2893,7 +2894,8 @@
       132,
       "Troubles cognitifs du sujet âgé",
       [
-        "ger"
+        "ger",
+        "neuro"
       ]
     ],
     [
@@ -2907,7 +2909,8 @@
       134,
       "Bases neurophysiologiques et mécanismes physiopathologiques d'une douleur aiguë et d'une douleur chronique",
       [
-        "douleur"
+        "douleur",
+        "neuro"
       ]
     ],
     [
