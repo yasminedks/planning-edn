@@ -1917,7 +1917,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-27T14:57:02.016Z"
+    "updatedAt": "2026-10-27T14:59:44.471Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -2539,6 +2539,7 @@
       82,
       "Altération aiguë de la vision",
       [
+        "neuro",
         "ophtalmo"
       ]
     ],
@@ -2581,6 +2582,7 @@
       88,
       "Trouble aigu de la parole. Dysphonie",
       [
+        "neuro",
         "orl"
       ]
     ],
@@ -2883,7 +2885,8 @@
       131,
       "Troubles de la marche et de l'équilibre (sujet âgé)",
       [
-        "ger"
+        "ger",
+        "neuro"
       ]
     ],
     [
