@@ -121,6 +121,18 @@
       "swapId": "swap_1793113811682_14",
       "partnerKey": "S1_i97_o1",
       "previousItemNum": 82
+    },
+    "S1_i275_o1": {
+      "itemNum": 88,
+      "swapId": "swap_1793113840831_289",
+      "partnerKey": "S1_i88_o1",
+      "previousItemNum": 275
+    },
+    "S1_i88_o1": {
+      "itemNum": 275,
+      "swapId": "swap_1793113840831_289",
+      "partnerKey": "S1_i275_o1",
+      "previousItemNum": 88
     }
   },
   "customTasks": {},
@@ -1868,13 +1880,13 @@
       {
         "id": "S1_i275_o1",
         "kind": "item",
-        "itemNum": 275,
+        "itemNum": 88,
         "mode": "revision",
         "idx": 19,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-27",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 275,
         "dayCap": 2
       },
@@ -1929,7 +1941,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-27T15:10:11.686Z"
+    "updatedAt": "2026-10-27T15:13:02.320Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4111,6 +4123,7 @@
       303,
       "Tumeurs de l'estomac",
       [
+        "gastro",
         "onco"
       ]
     ],
@@ -4126,6 +4139,7 @@
       305,
       "Tumeurs de l'œsophage",
       [
+        "gastro",
         "onco"
       ]
     ],
@@ -4486,7 +4500,8 @@
       356,
       "Appendicite de l'enfant et de l'adulte",
       [
-        "chirvisc"
+        "chirvisc",
+        "gastro"
       ]
     ],
     [
