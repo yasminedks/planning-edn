@@ -14,7 +14,11 @@
     "S1_i179_o1": true,
     "S1_i273_o1": true,
     "S1_i95_o1": true,
-    "M_355_mvnt4vvazkz3": true
+    "M_355_mvnt4vvazkz3": true,
+    "S1_i76_o1": true,
+    "S1_i72_o1": true,
+    "M_76_mvqt71a07bkc": true,
+    "M_72_mvqt6sheoinp": true
   },
   "checks": {
     "2026-10-17": {
@@ -1861,6 +1865,22 @@
         "overridden": false,
         "originalItemNum": 275,
         "dayCap": 2
+      },
+      {
+        "id": "M_72_mvqt6sheoinp",
+        "kind": "manualItem",
+        "itemNum": 72,
+        "mode": "entrainement",
+        "iso": "2026-10-27",
+        "manual": true
+      },
+      {
+        "id": "M_76_mvqt71a07bkc",
+        "kind": "manualItem",
+        "itemNum": 76,
+        "mode": "entrainement",
+        "iso": "2026-10-27",
+        "manual": true
       }
     ]
   },
@@ -1897,7 +1917,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-27T14:55:27.889Z"
+    "updatedAt": "2026-10-27T14:57:02.016Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4589,6 +4609,18 @@
       "l": 0,
       "f": 1,
       "s": 1
+    },
+    "2026-10-25": {
+      "r": 1,
+      "l": 0,
+      "f": 0,
+      "s": 0
+    },
+    "2026-10-26": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4654,6 +4686,22 @@
     "M_355_mvnt4vvazkz3": {
       "on": "2026-10-25",
       "planned": "2026-10-25"
+    },
+    "S1_i76_o1": {
+      "on": "2026-10-27",
+      "planned": "2026-10-28"
+    },
+    "S1_i72_o1": {
+      "on": "2026-10-27",
+      "planned": "2026-10-28"
+    },
+    "M_76_mvqt71a07bkc": {
+      "on": "2026-10-27",
+      "planned": "2026-10-27"
+    },
+    "M_72_mvqt6sheoinp": {
+      "on": "2026-10-27",
+      "planned": "2026-10-27"
     }
   },
   "manualItems": {
@@ -4700,6 +4748,18 @@
         "id": "M_301_mvnt64mv9r1a",
         "itemNum": 301,
         "mode": "revision"
+      }
+    ],
+    "2026-10-27": [
+      {
+        "id": "M_72_mvqt6sheoinp",
+        "itemNum": 72,
+        "mode": "entrainement"
+      },
+      {
+        "id": "M_76_mvqt71a07bkc",
+        "itemNum": 76,
+        "mode": "entrainement"
       }
     ]
   }
