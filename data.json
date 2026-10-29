@@ -20,7 +20,8 @@
     "M_76_mvqt71a07bkc": true,
     "M_72_mvqt6sheoinp": true,
     "S1_i274_o1": true,
-    "S1_i97_o1": true
+    "S1_i97_o1": true,
+    "S1_i275_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -36,6 +37,9 @@
     "2026-12-03": {
       "type": "partiel",
       "label": "Tronc commun"
+    },
+    "2026-10-28": {
+      "type": "repos"
     }
   },
   "darkMode": true,
@@ -1908,6 +1912,60 @@
         "iso": "2026-10-27",
         "manual": true
       }
+    ],
+    "2026-10-28": [
+      {
+        "id": "S1_i72_o1",
+        "kind": "item",
+        "itemNum": 72,
+        "mode": "revision",
+        "idx": 20,
+        "phase": "S1",
+        "iso": "2026-10-28",
+        "overridden": false,
+        "originalItemNum": 72,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i76_o1",
+        "kind": "item",
+        "itemNum": 76,
+        "mode": "revision",
+        "idx": 21,
+        "phase": "S1",
+        "iso": "2026-10-28",
+        "overridden": false,
+        "originalItemNum": 76,
+        "dayCap": 2
+      }
+    ],
+    "2026-10-29": [
+      {
+        "id": "S1_i82_o1",
+        "kind": "item",
+        "itemNum": 97,
+        "mode": "revision",
+        "idx": 22,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-29",
+        "overridden": true,
+        "originalItemNum": 82,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i88_o1",
+        "kind": "item",
+        "itemNum": 275,
+        "mode": "revision",
+        "idx": 23,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-29",
+        "overridden": true,
+        "originalItemNum": 88,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -1943,7 +2001,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-29T09:08:58.364Z"
+    "updatedAt": "2026-10-29T09:39:29.928Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4657,6 +4715,18 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-10-27": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-10-28": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4744,6 +4814,10 @@
       "planned": "2026-10-26"
     },
     "S1_i97_o1": {
+      "on": "2026-10-29",
+      "planned": "2026-10-27"
+    },
+    "S1_i275_o1": {
       "on": "2026-10-29",
       "planned": "2026-10-27"
     }
