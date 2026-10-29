@@ -21,7 +21,8 @@
     "M_72_mvqt6sheoinp": true,
     "S1_i274_o1": true,
     "S1_i97_o1": true,
-    "S1_i275_o1": true
+    "S1_i275_o1": true,
+    "S1_i88_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -1965,6 +1966,14 @@
         "overridden": true,
         "originalItemNum": 88,
         "dayCap": 2
+      },
+      {
+        "id": "M_272_mvtr6ek940zi",
+        "kind": "manualItem",
+        "itemNum": 272,
+        "mode": "revision",
+        "iso": "2026-10-29",
+        "manual": true
       }
     ]
   },
@@ -2005,7 +2014,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-29T16:20:55.141Z"
+    "updatedAt": "2026-10-29T20:13:52.253Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4824,6 +4833,10 @@
     "S1_i275_o1": {
       "on": "2026-10-29",
       "planned": "2026-10-27"
+    },
+    "S1_i88_o1": {
+      "on": "2026-10-29",
+      "planned": "2026-10-29"
     }
   },
   "manualItems": {
@@ -4882,6 +4895,13 @@
         "id": "M_76_mvqt71a07bkc",
         "itemNum": 76,
         "mode": "entrainement"
+      }
+    ],
+    "2026-10-29": [
+      {
+        "id": "M_272_mvtr6ek940zi",
+        "itemNum": 272,
+        "mode": "revision"
       }
     ]
   }
