@@ -2005,7 +2005,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-29T16:19:14.695Z"
+    "updatedAt": "2026-10-29T16:20:55.141Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4882,13 +4882,6 @@
         "id": "M_76_mvqt71a07bkc",
         "itemNum": 76,
         "mode": "entrainement"
-      }
-    ],
-    "2026-11-01": [
-      {
-        "id": "M_272_mvqtt6e7mg79",
-        "itemNum": 272,
-        "mode": "revision"
       }
     ]
   }
