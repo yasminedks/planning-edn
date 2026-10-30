@@ -28,7 +28,8 @@
     "2026-10-17": {
       "free": false
     },
-    "2026-10-24": {}
+    "2026-10-24": {},
+    "2026-11-14": {}
   },
   "reportedDays": {
     "2026-11-13": {
@@ -2002,6 +2003,14 @@
         "overridden": false,
         "originalItemNum": 277,
         "dayCap": 2
+      },
+      {
+        "id": "M_91_mvut8esnqll6",
+        "kind": "manualItem",
+        "itemNum": 91,
+        "mode": "revision",
+        "iso": "2026-10-30",
+        "manual": true
       }
     ]
   },
@@ -2044,7 +2053,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-30T10:07:39.923Z"
+    "updatedAt": "2026-10-30T10:09:09.096Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4933,6 +4942,13 @@
       {
         "id": "M_272_mvtr6ek940zi",
         "itemNum": 272,
+        "mode": "revision"
+      }
+    ],
+    "2026-10-30": [
+      {
+        "id": "M_91_mvut8esnqll6",
+        "itemNum": 91,
         "mode": "revision"
       }
     ]
