@@ -69,16 +69,10 @@
       "partnerKey": "S1_i91_o1",
       "previousItemNum": 301
     },
-    "S1_i357_o1": {
-      "itemNum": 276,
-      "swapId": "swap_1792577360495_594",
-      "partnerKey": "S1_i276_o1",
-      "previousItemNum": 357
-    },
     "S1_i276_o1": {
-      "itemNum": 357,
-      "swapId": "swap_1792577360495_594",
-      "partnerKey": "S1_i357_o1",
+      "itemNum": 92,
+      "swapId": "swap_1793354859919_261",
+      "partnerKey": "S1_i92_o1",
       "previousItemNum": 276
     },
     "S1_i272_o1": {
@@ -140,6 +134,12 @@
       "swapId": "swap_1793290754690_681",
       "partnerKey": "S1_i88_o1",
       "previousItemNum": 271
+    },
+    "S1_i92_o1": {
+      "itemNum": 357,
+      "swapId": "swap_1793354859919_261",
+      "partnerKey": "S1_i276_o1",
+      "previousItemNum": 92
     }
   },
   "customTasks": {},
@@ -1690,13 +1690,13 @@
       {
         "id": "S1_i92_o1",
         "kind": "item",
-        "itemNum": 92,
+        "itemNum": 357,
         "mode": "revision",
         "idx": 7,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-20",
-        "overridden": false,
+        "overridden": true,
         "originalItemNum": 92,
         "dayCap": 2
       }
@@ -1705,13 +1705,13 @@
       {
         "id": "S1_i357_o1",
         "kind": "item",
-        "itemNum": 276,
+        "itemNum": 357,
         "mode": "revision",
         "idx": 8,
         "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-21",
-        "overridden": true,
+        "overridden": false,
         "originalItemNum": 357,
         "dayCap": 2
       },
@@ -1980,7 +1980,7 @@
       {
         "id": "S1_i276_o1",
         "kind": "item",
-        "itemNum": 357,
+        "itemNum": 92,
         "mode": "revision",
         "idx": 24,
         "idxKnown": true,
@@ -2044,7 +2044,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-30T10:02:31.294Z"
+    "updatedAt": "2026-10-30T10:07:39.923Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4766,6 +4766,12 @@
       "s": 1
     },
     "2026-10-28": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-10-29": {
       "r": 0,
       "l": 0,
       "f": 0,
