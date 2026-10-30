@@ -2021,6 +2021,14 @@
         "mode": "revision",
         "iso": "2026-10-30",
         "manual": true
+      },
+      {
+        "id": "M_356_mvuthaivzzj1",
+        "kind": "manualItem",
+        "itemNum": 356,
+        "mode": "entrainement",
+        "iso": "2026-10-30",
+        "manual": true
       }
     ]
   },
@@ -2063,7 +2071,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-30T10:11:40.161Z"
+    "updatedAt": "2026-10-30T10:16:03.465Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4965,6 +4973,11 @@
         "id": "M_272_mvutb9lmkqe9",
         "itemNum": 272,
         "mode": "revision"
+      },
+      {
+        "id": "M_356_mvuthaivzzj1",
+        "itemNum": 356,
+        "mode": "entrainement"
       }
     ]
   }
