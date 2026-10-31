@@ -30,7 +30,8 @@
       "free": false
     },
     "2026-10-24": {},
-    "2026-11-14": {}
+    "2026-11-14": {},
+    "2026-10-31": {}
   },
   "reportedDays": {
     "2026-11-13": {
@@ -2030,6 +2031,45 @@
         "iso": "2026-10-30",
         "manual": true
       }
+    ],
+    "2026-10-31": [
+      {
+        "id": "S1_i278_o1",
+        "kind": "item",
+        "itemNum": 272,
+        "mode": "revision",
+        "idx": 26,
+        "phase": "S1",
+        "iso": "2026-10-31",
+        "overridden": true,
+        "originalItemNum": 278,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i279_o1",
+        "kind": "item",
+        "itemNum": 273,
+        "mode": "revision",
+        "idx": 27,
+        "phase": "S1",
+        "iso": "2026-10-31",
+        "overridden": true,
+        "originalItemNum": 279,
+        "dayCap": 2
+      },
+      {
+        "id": "free",
+        "kind": "generic",
+        "label": "Révision libre — item ou matière de ton choix"
+      },
+      {
+        "id": "M_356_mvwbi2iacuhv",
+        "kind": "manualItem",
+        "itemNum": 356,
+        "mode": "entrainement",
+        "iso": "2026-10-31",
+        "manual": true
+      }
     ]
   },
   "queueFreeze": {
@@ -2071,7 +2111,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-30T10:16:03.465Z"
+    "updatedAt": "2026-10-31T11:28:18.998Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4803,6 +4843,12 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-10-30": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -4976,6 +5022,13 @@
       },
       {
         "id": "M_356_mvuthaivzzj1",
+        "itemNum": 356,
+        "mode": "entrainement"
+      }
+    ],
+    "2026-10-31": [
+      {
+        "id": "M_356_mvwbi2iacuhv",
         "itemNum": 356,
         "mode": "entrainement"
       }
