@@ -23,7 +23,8 @@
     "S1_i97_o1": true,
     "S1_i275_o1": false,
     "S1_i88_o1": true,
-    "S1_i271_o1": true
+    "S1_i271_o1": true,
+    "S1_i278_o1": true
   },
   "checks": {
     "2026-10-17": {
@@ -2111,7 +2112,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-31T11:28:18.998Z"
+    "updatedAt": "2026-10-31T14:09:40.014Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4942,6 +4943,10 @@
     "S1_i271_o1": {
       "on": "2026-10-30",
       "planned": "2026-10-20"
+    },
+    "S1_i278_o1": {
+      "on": "2026-10-31",
+      "planned": "2026-10-31"
     }
   },
   "manualItems": {
