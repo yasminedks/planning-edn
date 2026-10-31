@@ -24,7 +24,8 @@
     "S1_i275_o1": false,
     "S1_i88_o1": true,
     "S1_i271_o1": true,
-    "S1_i278_o1": true
+    "S1_i278_o1": true,
+    "M_356_mvwbi2iacuhv": true
   },
   "checks": {
     "2026-10-17": {
@@ -2040,6 +2041,7 @@
         "itemNum": 272,
         "mode": "revision",
         "idx": 26,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-31",
         "overridden": true,
@@ -2052,6 +2054,7 @@
         "itemNum": 273,
         "mode": "revision",
         "idx": 27,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-10-31",
         "overridden": true,
@@ -2100,7 +2103,9 @@
       82,
       88,
       276,
-      277
+      277,
+      278,
+      279
     ],
     "S2": []
   },
@@ -2112,7 +2117,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-31T14:09:40.014Z"
+    "updatedAt": "2026-10-31T14:33:38.684Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4945,6 +4950,10 @@
       "planned": "2026-10-20"
     },
     "S1_i278_o1": {
+      "on": "2026-10-31",
+      "planned": "2026-10-31"
+    },
+    "M_356_mvwbi2iacuhv": {
       "on": "2026-10-31",
       "planned": "2026-10-31"
     }
