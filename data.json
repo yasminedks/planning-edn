@@ -2079,6 +2079,30 @@
         "mode": "entrainement",
         "iso": "2026-10-31",
         "manual": true
+      },
+      {
+        "id": "M_91_mvwqpnc1kvpk",
+        "kind": "manualItem",
+        "itemNum": 91,
+        "mode": "entrainement",
+        "iso": "2026-10-31",
+        "manual": true
+      },
+      {
+        "id": "M_92_mvwqpsxvoj2g",
+        "kind": "manualItem",
+        "itemNum": 92,
+        "mode": "entrainement",
+        "iso": "2026-10-31",
+        "manual": true
+      },
+      {
+        "id": "M_93_mvwqpymhu8nv",
+        "kind": "manualItem",
+        "itemNum": 93,
+        "mode": "entrainement",
+        "iso": "2026-10-31",
+        "manual": true
       }
     ]
   },
@@ -2123,7 +2147,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-31T15:38:16.077Z"
+    "updatedAt": "2026-10-31T18:34:21.450Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -5074,6 +5098,21 @@
       {
         "id": "M_356_mvwbi2iacuhv",
         "itemNum": 356,
+        "mode": "entrainement"
+      },
+      {
+        "id": "M_91_mvwqpnc1kvpk",
+        "itemNum": 91,
+        "mode": "entrainement"
+      },
+      {
+        "id": "M_92_mvwqpsxvoj2g",
+        "itemNum": 92,
+        "mode": "entrainement"
+      },
+      {
+        "id": "M_93_mvwqpymhu8nv",
+        "itemNum": 93,
         "mode": "entrainement"
       }
     ]
