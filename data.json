@@ -31,7 +31,10 @@
     "M_356_mvuthaivzzj1": true,
     "M_272_mvutb9lmkqe9": true,
     "M_91_mvut8esnqll6": true,
-    "M_272_mvtr6ek940zi": true
+    "M_272_mvtr6ek940zi": true,
+    "M_92_mvwqpsxvoj2g": true,
+    "M_93_mvwqpymhu8nv": true,
+    "M_91_mvwqpnc1kvpk": true
   },
   "checks": {
     "2026-10-17": {
@@ -2104,6 +2107,32 @@
         "iso": "2026-10-31",
         "manual": true
       }
+    ],
+    "2026-11-02": [
+      {
+        "id": "S1_i98_o1",
+        "kind": "item",
+        "itemNum": 98,
+        "mode": "revision",
+        "idx": 28,
+        "phase": "S1",
+        "iso": "2026-11-02",
+        "overridden": false,
+        "originalItemNum": 98,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i280_o1",
+        "kind": "item",
+        "itemNum": 95,
+        "mode": "revision",
+        "idx": 29,
+        "phase": "S1",
+        "iso": "2026-11-02",
+        "overridden": true,
+        "originalItemNum": 280,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -2147,7 +2176,7 @@
   "onboarded": true,
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-31T18:34:21.450Z"
+    "updatedAt": "2026-11-02T16:23:49.115Z"
   },
   "config": {
     "start": "2026-10-16",
@@ -4885,6 +4914,18 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-10-31": {
+      "r": 0,
+      "l": 0,
+      "f": 1,
+      "s": 1
+    },
+    "2026-11-01": {
+      "r": 1,
+      "l": 0,
+      "f": 0,
+      "s": 0
     }
   },
   "pinResetV1": true,
@@ -5010,6 +5051,18 @@
     "M_272_mvtr6ek940zi": {
       "on": "2026-10-31",
       "planned": "2026-10-29"
+    },
+    "M_92_mvwqpsxvoj2g": {
+      "on": "2026-11-02",
+      "planned": "2026-10-31"
+    },
+    "M_93_mvwqpymhu8nv": {
+      "on": "2026-11-02",
+      "planned": "2026-10-31"
+    },
+    "M_91_mvwqpnc1kvpk": {
+      "on": "2026-11-02",
+      "planned": "2026-10-31"
     }
   },
   "manualItems": {
